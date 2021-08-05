@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to study 👋
 ### Yangsir 's Stars
 
 ![My Stars](https://github-readme-stats.vercel.app/api?username=YangSirrr&show_icons=true&include_all_commits=true&count_private=true)

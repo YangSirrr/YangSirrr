@@ -1,5 +1,11 @@
 ### Hi there 👋
+### Yangsir 's Stars
 
+![My Stars](https://github-readme-stats.vercel.app/api?username=YangSirrr&show_icons=true&include_all_commits=true&count_private=true)
+
+### Top Langs
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangSirrr&layout=compact)
 <!--
 **YangSirrr/YangSirrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
